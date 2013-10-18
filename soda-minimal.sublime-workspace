@@ -27,7 +27,7 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 375.0,
+		"height": 49.0,
 		"selected_items":
 		[
 			[
@@ -72,6 +72,7 @@
 	},
 	"file_history":
 	[
+		"/Users/brojoe/Library/Application Support/Sublime Text 3/Packages/Theme - Soda Minimal/README.md",
 		"/Users/brojoe/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/Users/brojoe/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
 		"/Users/brojoe/Library/Application Support/Sublime Text 3/Packages/Theme - Soda Minimal/package-metadata.json",
@@ -131,7 +132,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -147,8 +148,8 @@
 						"selection":
 						[
 							[
-								25,
-								25
+								447,
+								447
 							]
 						],
 						"settings":
@@ -160,7 +161,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -176,8 +177,8 @@
 						"selection":
 						[
 							[
-								1319,
-								1319
+								352,
+								352
 							]
 						],
 						"settings":
@@ -187,10 +188,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 19432.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -250,6 +251,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"",
+				"~/Developement/SublimeTextProjects/rosetta.sublime-project"
+			]
 		],
 		"width": 380.0
 	},
